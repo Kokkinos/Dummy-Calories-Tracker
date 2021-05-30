@@ -1,0 +1,20 @@
+.cal-tracker {
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+   
+    
+}
+
+#calories-header {
+    text-align: center;
+}
+
+#calories-received {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}

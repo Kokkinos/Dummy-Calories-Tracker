@@ -1,0 +1,16 @@
+.cupboard {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    background-color: rgb(58, 68, 68);
+}
+
+#cupboard-header {
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+}
+
+#food-item:hover {
+    background-color: aquamarine;
+}
